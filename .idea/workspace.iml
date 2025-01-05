@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$USER_HOME$/Documents/DataSpell" />
+    <content url="file://$USER_HOME$/Documents/DataSpell">
+      <sourceFolder url="file://$USER_HOME$/Documents/DataSpell" isTestSource="false" />
+    </content>
     <orderEntry type="jdk" jdkName="Python 3.11" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
